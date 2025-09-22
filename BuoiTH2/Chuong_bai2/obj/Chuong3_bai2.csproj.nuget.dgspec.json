@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj": {}
+    "E:\\BT_L.net\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj": {}
   },
   "projects": {
-    "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj": {
+    "E:\\BT_L.net\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj",
+        "projectUniqueName": "E:\\BT_L.net\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj",
         "projectName": "Chuong3_bai2",
-        "projectPath": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj",
+        "projectPath": "E:\\BT_L.net\\BuoiTH2\\Chuong_bai2\\Chuong3_bai2.csproj",
         "packagesPath": "C:\\Users\\Hi There\\.nuget\\packages\\",
-        "outputPath": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Chuong_bai2\\obj\\",
+        "outputPath": "E:\\BT_L.net\\BuoiTH2\\Chuong_bai2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chuong2_Bai10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962c7b6ef57658633fbbf70333c27b91ae5cd6ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("chuong2_Bai10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chuong2_Bai10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

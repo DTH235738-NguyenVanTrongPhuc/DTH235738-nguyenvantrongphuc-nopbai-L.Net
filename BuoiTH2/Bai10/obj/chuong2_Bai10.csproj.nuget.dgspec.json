@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj": {}
+    "E:\\BT_L.net\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj": {}
   },
   "projects": {
-    "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj": {
+    "E:\\BT_L.net\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj",
+        "projectUniqueName": "E:\\BT_L.net\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj",
         "projectName": "chuong2_Bai10",
-        "projectPath": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj",
+        "projectPath": "E:\\BT_L.net\\BuoiTH2\\Bai10\\chuong2_Bai10.csproj",
         "packagesPath": "C:\\Users\\Hi There\\.nuget\\packages\\",
-        "outputPath": "E:\\BT_L.net\\BuoiTH2\\BuoiTH2\\Bai10\\obj\\",
+        "outputPath": "E:\\BT_L.net\\BuoiTH2\\Bai10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
