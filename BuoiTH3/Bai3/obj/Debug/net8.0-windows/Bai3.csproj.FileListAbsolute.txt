@@ -14,3 +14,4 @@ Z:\BuoiTH3\Bai3\obj\Debug\net8.0-windows\refint\Bai3.dll
 Z:\BuoiTH3\Bai3\obj\Debug\net8.0-windows\Bai3.pdb
 Z:\BuoiTH3\Bai3\obj\Debug\net8.0-windows\Bai3.genruntimeconfig.cache
 Z:\BuoiTH3\Bai3\obj\Debug\net8.0-windows\ref\Bai3.dll
+Z:\BuoiTH3\Bai3\obj\Debug\net8.0-windows\Bai3.Form2.resources

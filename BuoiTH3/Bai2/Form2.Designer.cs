@@ -47,6 +47,7 @@
             label1.Text = "Tường Đại Học An Giang";
             label1.UseCompatibleTextRendering = true;
             label1.UseWaitCursor = true;
+            label1.Click += label1_Click;
             // 
             // label2
             // 

@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            ListViewItem listViewItem1 = new ListViewItem(new string[] { "Tuổi Trẻ", "Tuổi Trẻ" }, -1, Color.Empty, Color.Empty, new Font("Segoe UI", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0));
-            ListViewItem listViewItem2 = new ListViewItem(new string[] { "Thanh Niên", "Thanh Niên" }, -1);
-            ListViewItem listViewItem3 = new ListViewItem(new string[] { "VNExpress", "VNExpress" }, -1);
-            ListViewItem listViewItem4 = new ListViewItem(new string[] { "Dân Trí", "Dân Trí" }, -1);
+            ListViewItem listViewItem13 = new ListViewItem(new string[] { "Tuổi Trẻ", "Tuổi Trẻ" }, -1, Color.Empty, Color.Empty, new Font("Segoe UI", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0));
+            ListViewItem listViewItem14 = new ListViewItem(new string[] { "Thanh Niên", "Thanh Niên" }, -1);
+            ListViewItem listViewItem15 = new ListViewItem(new string[] { "VNExpress", "VNExpress" }, -1);
+            ListViewItem listViewItem16 = new ListViewItem(new string[] { "Dân Trí", "Dân Trí" }, -1);
             lstname = new ListView();
             linklabel = new LinkLabel();
             btnok = new Button();
@@ -41,14 +41,15 @@
             // 
             // lstname
             // 
-            listViewItem1.Tag = "Tuổi trẻ";
-            lstname.Items.AddRange(new ListViewItem[] { listViewItem1, listViewItem2, listViewItem3, listViewItem4 });
+            listViewItem13.Tag = "Tuổi trẻ";
+            lstname.Items.AddRange(new ListViewItem[] { listViewItem13, listViewItem14, listViewItem15, listViewItem16 });
             lstname.Location = new Point(167, 83);
             lstname.Name = "lstname";
             lstname.Size = new Size(168, 91);
             lstname.TabIndex = 0;
             lstname.UseCompatibleStateImageBehavior = false;
             lstname.View = View.Tile;
+            lstname.SelectedIndexChanged += this.lstname_SelectedIndexChanged;
             // 
             // linklabel
             // 
@@ -60,6 +61,7 @@
             linklabel.TabIndex = 1;
             linklabel.TabStop = true;
             linklabel.Text = "Link liên kết Website";
+            linklabel.LinkClicked += this.linklabel_LinkClicked;
             // 
             // btnok
             // 
@@ -79,6 +81,7 @@
             btnrelst.TabIndex = 6;
             btnrelst.Text = "Reset";
             btnrelst.UseVisualStyleBackColor = true;
+            btnrelst.Click += this.btnrelst_Click;
             // 
             // txtkq
             // 
@@ -87,6 +90,7 @@
             txtkq.Name = "txtkq";
             txtkq.Size = new Size(210, 88);
             txtkq.TabIndex = 7;
+            txtkq.TextChanged += txtkq_TextChanged_1;
             // 
             // Form1
             // 
